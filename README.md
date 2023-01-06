@@ -1,4 +1,4 @@
-# Hi 🎉 Welcome to Tristan's Github Homepage!
+# Hi 🎉 Welcome to Tristan's Github 
 
 
 [![](https://img.shields.io/badge/-Python-007396?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
