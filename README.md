@@ -2,8 +2,8 @@
 <div style="margin: 20px 0; padding: 0 20px; text-align: center;">
   <h2>🚗 Tesla FSD 简介</h2>
   <!-- 动图 -->
-  <div style="margin-bottom: 20px; width: 100%; text-align: center;">
-    <img style="border-radius: 15px; max-width: 100%; height: auto;" src="https://s1.ezgif.com/tmp/ezgif-1-f0d7f6c8e1.gif" />
+  <div style="margin-bottom: 20px;">
+    <img style="border-radius: 15px; max-width: 120%; height: auto;" src="https://s1.ezgif.com/tmp/ezgif-1-f0d7f6c8e1.gif" />
   </div>
   <!-- 介绍 -->
   <div style="max-width: 800px; margin: 0 auto;">
@@ -12,12 +12,11 @@
     <p>FSD的技术核心是强大的视觉感知系统和自学习算法，能够实时分析道路环境并作出最佳决策。</p>
   </div>
 </div>
-
 <!-- 小鹏NGP 3.0动图及介绍 -->
 <div style="margin: 20px 0; padding: 0 20px; text-align: center;">
-  <h2>🚙 小鹏NGP 3.0 简介</h2>
+   <h2>🚙 小鹏NGP 3.0 简介</h2>
   <!-- 动图 -->
-  <div style="margin-bottom: 20px; width: 100%; text-align: center;">
+  <div style="margin-bottom: 20px;">
     <img style="border-radius: 15px; max-width: 100%; height: auto;" src="https://s5.ezgif.com/tmp/ezgif-5-37e0e1280b.gif" />
   </div>
   <!-- 介绍 -->
@@ -32,7 +31,7 @@
 <div style="margin: 20px 0; padding: 0 20px; text-align: center;">
   <h2>🌟 百度 Apollo 简介</h2>
   <!-- 动图 -->
-  <div style="margin-bottom: 20px; width: 100%; text-align: center;">
+  <div style="margin-bottom: 20px;">
     <img style="border-radius: 15px; max-width: 100%; height: auto;" src="https://s5.ezgif.com/tmp/ezgif-5-8398be1234.gif" />
   </div>
   <!-- 介绍 -->
