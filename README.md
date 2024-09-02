@@ -7,7 +7,7 @@
 
 <!-- 敲代码的图片 -->
 <div align="center">
-  <img style="border-radius: 100px;" src="https://image.sciencenet.cn/home/201911/18/101622t1a7ia21zylmaw1d.gif" width="600"/>
+  <img style="border-radius: 100px;" src="https://s1.ezgif.com/tmp/ezgif-1-f0d7f6c8e1.gif" width="600"/>
 </div>
 <br>
 
