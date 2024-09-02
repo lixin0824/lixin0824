@@ -31,7 +31,7 @@
 <div style="margin: 20px 0; padding: 0 20px; text-align: center;">
   <!-- 动图 -->
   <div style="margin-bottom: 20px;">
-    <img style="border-radius: 15px; max-width: 100%; height: auto;" src="https://example.com/baidu-apollo.gif" />
+    <img style="border-radius: 15px; max-width: 100%; height: auto;" src="https://s5.ezgif.com/tmp/ezgif-5-8398be1234.gif" />
     <h2>🌟 百度 Apollo 简介</h2>
   </div>
   <!-- 介绍 -->
