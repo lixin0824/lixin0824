@@ -57,7 +57,7 @@
   <h2>🌟 百度 Apollo 简介</h2>
   <!-- 动图 -->
   <div style="margin-bottom: 20px;">
-    <img style="border-radius: 15px; max-width: 100%; height: auto;" src="https://s5.ezgif.com/tmp/ezgif-5-8398be1234.gif" />
+    <img style="border-radius: 15px; max-width: 600px; height: 600px;" src="https://s5.ezgif.com/tmp/ezgif-5-8398be1234.gif" />
   </div>
   <!-- 介绍 -->
   <div style="max-width: 800px; margin: 0 auto;">
