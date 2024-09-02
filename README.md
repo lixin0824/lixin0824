@@ -19,16 +19,16 @@
   <h2>📫 联系我</h2>
   <p>
     <a href="mailto:Tristan_work@outlook.com">📧 Email</a> &emsp;
-    <a href="https://www.linkedin.com/in/your-profile/">LinkedIn</a> &emsp;
-    <a href="https://blog.csdn.net/weixin_43798715?spm=1000.2115.3001.5343">CSDN</a>
+    <a href="https://www.linkedin.com/in/your-profile/">📧 LinkedIn</a> &emsp;
+    <a href="https://blog.csdn.net/weixin_43798715?spm=1000.2115.3001.5343">📧 CSDN</a>
   </p>
 </div>
 <!-- 特斯拉FSD动图及介绍 -->
 <div style="margin: 20px 0; padding: 0 20px; text-align: center;">
   <h2>🚗 Tesla FSD 简介</h2>
   <!-- 动图 -->
-  <div style="margin-bottom: 20px;">
-    <img style="border-radius: 15px; max-width: 120%; height: auto;" src="https://s1.ezgif.com/tmp/ezgif-1-f0d7f6c8e1.gif" />
+  <div style="margin-bottom: auto;">
+    <img style="border-radius: auto; max-width: 120%; height: auto;" src="https://s1.ezgif.com/tmp/ezgif-1-f0d7f6c8e1.gif" />
   </div>
   <!-- 介绍 -->
   <div style="max-width: 800px; margin: 0 auto;">
