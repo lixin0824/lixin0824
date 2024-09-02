@@ -6,42 +6,44 @@
 </h1>
 
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://image.sciencenet.cn/home/201911/18/101622t1a7ia21zylmaw1d.gif"/></div>
+<div align="center">
+  <img style="border-radius: 100px;" src="https://image.sciencenet.cn/home/201911/18/101622t1a7ia21zylmaw1d.gif" width="600"/>
+</div>
 <br>
 
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://blog.csdn.net/weixin_43798715/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/62617674864/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-<!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=lixin0824" alt="访客统计" /></div>
+  <!-- 访客数统计徽标 -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=lixin0824" alt="访客统计" />
+</div>
+
+<br>
+
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" />
+</div>
 
-
-#  🙋 Hello
-
+# 🙋 Hello
 
 <!-- 比较好的开源项目卡片 -->
 <!-- profile-3d-contrib -->
 
-
-
 <!-- Gif -->
 
-
 <!-- just img -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
-
-
-
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" />
+</div>
 
 # 🚀 Actions
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
-
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+</div>
 
 <!-- GitHub Activity Graph -->
 <table align="center">
@@ -64,4 +66,7 @@
   </tr>
 </table>
 
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+<!-- 3D 贡献图 -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</div>
