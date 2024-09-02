@@ -6,7 +6,7 @@
 </h1>
 
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://pic1.zhimg.com/50/v2-790c61e29bea3c9c36f35fead523b582_720w.webp?source=1def8aca"/></div>
+<div align="center" ><img order-radius="100px" src="https://image.sciencenet.cn/home/201911/18/101622t1a7ia21zylmaw1d.gif"/></div>
 <br>
 
 <!-- 个人资料徽标 -->
