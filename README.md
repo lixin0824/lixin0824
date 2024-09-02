@@ -1,5 +1,5 @@
 <!-- 特斯拉FSD动图及介绍 -->
-<div style="display: flex; align-items: flex-start; justify-content: center; margin: 20px 0; padding: 0 20px;">
+<div style="display: flex; align-items: flex-start; justify-content: center; margin: 100px 0; padding: 0 100px;">
   <!-- 动图 -->
   <div style="flex: 1; text-align: center; margin-right: 20px;">
     <img style="border-radius: 15px;" src="https://s1.ezgif.com/tmp/ezgif-1-f0d7f6c8e1.gif" width="300" />
