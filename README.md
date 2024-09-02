@@ -7,6 +7,7 @@
   <a href="https://sunguoqi.com/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;欢迎来到一个励志成为智驶工程师的主页!&center=true&size=20">
   </a>
+   <img src="https://csdnimg.cn/release/cmsfe/public/img/skin-1024-title.660ba30a.gif" />
 </h1>
 <!-- 个人介绍 -->
 <div align="center">
