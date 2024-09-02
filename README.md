@@ -1,14 +1,30 @@
+
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;欢迎来到智驶工程师的主页!&center=true&size=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;欢迎来到智驶工程师的主页!&center=true&size=20">
   </a>
 </h1
+<!-- 个人介绍 -->
+<div align="center">
+  <h2>👋 关于我</h2>
+  <p>热爱自动驾驶和人工智能的工程师，致力于推进智能驾驶技术的发展。</p>
+  <p>欢迎来到我的GitHub主页，期待与你分享我的项目与创意！</p>
+</div>
+<!-- 联系方式 -->
+<div align="center">
+  <h2>📫 联系我</h2>
+  <p>
+    <a href="mailto:Tristan_work@outlook.com">📧 Email</a> &emsp;
+    <a href="https://www.linkedin.com/in/your-profile/">LinkedIn</a> &emsp;
+    <a href="https://blog.csdn.net/weixin_43798715?spm=1000.2115.3001.5343">CSDN</a>
+  </p>
+</div>
 <!-- 特斯拉FSD动图及介绍 -->
 <div style="margin: 20px 0; padding: 0 20px; text-align: center;">
   <h2>🚗 Tesla FSD 简介</h2>
   <!-- 动图 -->
-  <div align="center">
+  <div style="margin-bottom: 20px;">
     <img style="border-radius: 15px; max-width: 120%; height: auto;" src="https://s1.ezgif.com/tmp/ezgif-1-f0d7f6c8e1.gif" />
   </div>
   <!-- 介绍 -->
