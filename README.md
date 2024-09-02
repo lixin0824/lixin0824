@@ -5,9 +5,18 @@
   </a>
 </h1>
 
-<!-- 敲代码的图片 -->
-<div align="center">
-  <img style="border-radius: 100px;" src="https://s1.ezgif.com/tmp/ezgif-1-f0d7f6c8e1.gif" width="600"/>
+<!-- 特斯拉FSD动图及介绍 -->
+<div style="display: flex; align-items: center; justify-content: center; margin: 20px 0;">
+  <!-- 动图 -->
+  <div style="flex: 1; text-align: center;">
+    <img style="border-radius: 15px;" src="https://s1.ezgif.com/tmp/ezgif-1-f0d7f6c8e1.gif" width="300"/>
+  </div>
+  <!-- 介绍 -->
+  <div style="flex: 1; padding-left: 20px;">
+    <h2>🚗 Tesla FSD 简介</h2>
+    <p>特斯拉全自动驾驶（FSD）是特斯拉公司开发的高级驾驶辅助系统，旨在通过自动化技术实现车辆的完全自主驾驶。FSD 包括自动变道、自动泊车、城市道路驾驶等功能，正在不断更新和优化中，目标是实现安全、便捷的全自动驾驶体验。</p>
+    <p>FSD的技术核心是强大的视觉感知系统和自学习算法，能够实时分析道路环境并作出最佳决策。</p>
+  </div>
 </div>
 
 <!-- 社交链接和访客数统计徽标 -->
@@ -20,16 +29,6 @@
 <!-- GitHub 奖杯 -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lixin0824&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
-</div>
-
-<!-- GitHub 活动图 -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lixin0824&theme=xcode&bg_color=FF000000&hide_border=true" />
-</div>
-
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" />
 </div>
 
 <!-- 个人介绍 -->
