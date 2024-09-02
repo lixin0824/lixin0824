@@ -1,8 +1,14 @@
+<!-- 动态打字效果 -->
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;欢迎来到智驶工程师的主页!&center=true&size=50">
+  </a>
+</h1
 <!-- 特斯拉FSD动图及介绍 -->
 <div style="margin: 20px 0; padding: 0 20px; text-align: center;">
   <h2>🚗 Tesla FSD 简介</h2>
   <!-- 动图 -->
-  <div style="margin-bottom: 20px;">
+  <div align="center">
     <img style="border-radius: 15px; max-width: 120%; height: auto;" src="https://s1.ezgif.com/tmp/ezgif-1-f0d7f6c8e1.gif" />
   </div>
   <!-- 介绍 -->
