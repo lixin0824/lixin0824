@@ -26,3 +26,18 @@
     <p>该系统的核心技术包括实时环境感知、决策制定和运动控制。通过不断优化的算法，NGP 3.0 能够更好地应对复杂的道路情况，提高驾驶安全性和舒适性。</p>
   </div>
 </div>
+
+<!-- 百度Apollo动图及介绍 -->
+<div style="margin: 20px 0; padding: 0 20px; text-align: center;">
+  <!-- 动图 -->
+  <div style="margin-bottom: 20px;">
+    <img style="border-radius: 15px; max-width: 100%; height: auto;" src="https://example.com/baidu-apollo.gif" />
+    <h2>🌟 百度 Apollo 简介</h2>
+  </div>
+  <!-- 介绍 -->
+  <div style="max-width: 800px; margin: 0 auto;">
+    <p>百度 Apollo 是百度公司开发的开源自动驾驶平台，旨在推动智能驾驶技术的发展和应用。Apollo 通过集成先进的感知、决策和控制技术，为车辆提供高效、安全的自动驾驶解决方案。</p>
+    <p>Apollo 平台包括多种功能模块，如自动驾驶、智能导航、高精度地图等。其核心技术涵盖了深度学习、传感器融合和高精度定位，以确保在各种复杂环境下的安全驾驶。</p>
+    <p>通过不断的技术创新和数据积累，Apollo 旨在实现全自动驾驶的目标，提升驾驶安全性、舒适性和便捷性。</p>
+  </div>
+</div>
