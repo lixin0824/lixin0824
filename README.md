@@ -2,7 +2,7 @@
 <div style="margin: 20px 0; padding: 0 20px; text-align: center;">
   <!-- 动图 -->
   <div style="margin-bottom: 20px;">
-    <img style="border-radius: 15px; max-width: 100%; height: auto;" src="https://s1.ezgif.com/tmp/ezgif-1-f0d7f6c8e1.gif" />
+    <img style="border-radius: 15px; max-width: 120%; height: auto;" src="https://s1.ezgif.com/tmp/ezgif-1-f0d7f6c8e1.gif" />
     <h2>🚗 Tesla FSD 简介</h2>
   </div>
   <!-- 介绍 -->
