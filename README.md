@@ -1,3 +1,9 @@
+
+<!-- GitHub 奖杯 -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lixin0824&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
+</div>
+
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://sunguoqi.com/">
@@ -27,10 +33,6 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=lixin0824" alt="访客统计" />
 </div>
 
-<!-- GitHub 奖杯 -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lixin0824&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
-</div>
 
 <!-- 个人介绍 -->
 <div align="center">
