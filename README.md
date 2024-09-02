@@ -28,7 +28,7 @@
   <h2>🚗 Tesla FSD 简介</h2>
   <!-- 动图 -->
   <div style="margin-bottom: auto;">
-    <img style="border-radius: auto; max-width: 120%; height: auto;" src="https://s1.ezgif.com/tmp/ezgif-1-f0d7f6c8e1.gif" />
+    <img style="border-radius: auto; max-width: 800px; height: auto;" src="https://s1.ezgif.com/tmp/ezgif-1-f0d7f6c8e1.gif" />
   </div>
   <!-- 介绍 -->
   <div style="max-width: 800px; margin: 0 auto;">
