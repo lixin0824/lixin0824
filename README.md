@@ -15,6 +15,5 @@
 </div>
 
   <div style="margin-bottom: 20px;">
-    <img style="border-radius: 15px; max-width: 120%; height: auto;" src="https://n.sinaimg.cn/sinakd2021321s/75/w560h315/20210321/85ad-kmrcukz5797083.gif" />
-    <h2>🚗 Tesla FSD 简介</h2>
+    <img style="border-radius: 15px; max-width: 120%; height: auto;" src="https://s5.ezgif.com/tmp/ezgif-5-37e0e1280b.gif" />
   </div>
