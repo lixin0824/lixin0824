@@ -3,9 +3,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=lixin0824&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
 </div>
 <!-- 动态打字效果 -->
-  <a align="center" href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;欢迎来到智驶工程师的主页!&center=true&size=20">
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;欢迎来到一个励志成为智驶工程师的主页!&center=true&size=20">
   </a>
+</h1>
 <!-- 个人介绍 -->
 <div align="center">
   <h2>👋 关于我</h2>
